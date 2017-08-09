@@ -40,6 +40,8 @@
     "awesome-typescript-loader": "^3.1.2",
     "del-cli": "^0.2.0",
     "html-loader": "^0.4.4",
+    "mongoose": "^4.11.6",
+    "mongoose-unique-validator": "^1.0.5",
     "raw-loader": "^0.5.1",
     "ts-loader": "^2.0.3",
     "typescript": "^2.1.4",
